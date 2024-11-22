@@ -3,8 +3,8 @@ The appearance of independent work - Vagrant and Zabbix Agent2 6.0 LTS - Autoreg
 
 ## 3.I. OSY - Samostatná práce - Vagrant a Zabbix Agent2 - (Oprava – Github Classrom)
 
-- Vytvořte si svůj privátní GitHub účet na https://github.com/
-- Přidejte se do Classroom https://classroom.github.com/classrooms/96604019-2024-spos-3i-osy
+- Vytvořte si svůj privátní GitHub účet na [https://github.com](https://github.com)
+- Přidejte se do Classroom [https://classroom.github.com/classrooms/96604019-2024-spos-3i-osy](https://classroom.github.com/classrooms/96604019-2024-3i)
 
 ### Zadání
 
